@@ -1,0 +1,48 @@
+{
+  "talks": [
+    {
+      "id": 1,
+      "title": "Registration & breakfast",
+      "description": "Register and grab some breakfast and coffee.",
+      "speaker": null
+    },
+    {
+      "id": 2,
+      "title": "Keynote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius nisl sapien, a ullamcorper felis aliquam nec. Aliquam erat volutpat. Donec eget risus pretium orci fermentum aliquam et pellentesque sem. Maecenas luctus dictum odio, imperdiet pharetra felis accumsan quis. Integer lobortis augue felis. Ut non dui gravida, luctus lectus non, semper lectus.",
+      "speaker": {
+        "name": "Haris Mahmood",
+        "avatar": "https://i.picsum.photos/id/365/80/80.jpg"
+      }
+    }
+  ],
+  "schedule": [
+    {
+      "id": 456435643,
+      "time": "8:45 AM",
+      "data": [
+        {
+          "id": 1,
+          "title": "Registration & breakfast",
+          "description": "Register and grab some breakfast and coffee.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": 1234234235,
+      "time": "9:30 AM",
+      "data": [
+        {
+          "id": 2,
+          "title": "Keynote",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius nisl sapien, a ullamcorper felis aliquam nec. Aliquam erat volutpat. Donec eget risus pretium orci fermentum aliquam et pellentesque sem. Maecenas luctus dictum odio, imperdiet pharetra felis accumsan quis. Integer lobortis augue felis. Ut non dui gravida, luctus lectus non, semper lectus.",
+          "speaker": {
+            "name": "Haris Mahmood",
+            "avatar": "https://i.picsum.photos/id/365/80/80.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
